@@ -25,3 +25,4 @@ public class InetDemo{
         System.out.println("\n hasCode: "+ip.hashCode());
         System.out.println("\n is ip1==ip2:  "+ip.equals(ip2));
     }
+}
